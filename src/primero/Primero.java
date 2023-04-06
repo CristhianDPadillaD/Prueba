@@ -17,6 +17,8 @@ public class Primero {
         // TODO code application logic here
         
         System.out.println("Holan mundo");
+        
+        System.out.println("Lo logré");
     }
     
 }
